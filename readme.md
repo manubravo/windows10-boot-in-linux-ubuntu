@@ -2,6 +2,17 @@
 [![Version](https://badgen.net/github/tag/jsamr/bootiso?label=version)](https://github.com/jsamr/bootiso/releases/latest)
 [![Codacy grade](https://img.shields.io/codacy/grade/9f441cf6a1d6475484a9bb3ec2ed9713.svg)](https://app.codacy.com/app/jsamr/bootiso?utm_source=github.com&utm_medium=referral&utm_content=jsamr/bootiso&utm_campaign=badger)
 
+**RAW FOR COMMANDS ATT: MANU BRAVO**
+
+curl -L https://git.io/bootiso -O
+chmod +x bootiso
+sudo apt-get install wimtools
+sudo apt install syslinux
+sudo apt install extlinux
+./bootiso /rutadelaimagen
+
+Yarod39: https://www.youtube.com/watch?v=F2sBUMXwrv0
+
 **Create a USB bootable device from an image file easily and securely.**
 
 Because of its reliance on GNU and POSIX tools, **bootiso** primarly targets GNU/Linux systems.
