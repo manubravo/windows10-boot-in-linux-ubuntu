@@ -4,12 +4,12 @@
 
 **RAW FOR COMMANDS ATT: MANU BRAVO**
 
-curl -L https://git.io/bootiso -O
-chmod +x bootiso
-sudo apt-get install wimtools
-sudo apt install syslinux
-sudo apt install extlinux
-./bootiso /rutadelaimagen
+- curl -L https://git.io/bootiso -O
+- chmod +x bootiso
+- sudo apt-get install wimtools
+- sudo apt install syslinux
+- sudo apt install extlinux
+- ./bootiso /rutadelaimagen
 
 Yarod39: https://www.youtube.com/watch?v=F2sBUMXwrv0
 
